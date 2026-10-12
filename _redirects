@@ -1,1 +1,21 @@
-# No redirects required yet. Cloudflare Pages resolves clean URLs natively.
+# 301 redirects for renamed blog posts (both slash and no-slash forms).
+/blog/burst-pipe-before-plumber-arrives/ /blog/burst-pipe-before-plumber-arrives-boca-raton/ 301
+/blog/burst-pipe-before-plumber-arrives /blog/burst-pipe-before-plumber-arrives-boca-raton/ 301
+/blog/garbage-disposal-leaking-jammed/ /blog/garbage-disposal-leaking-jammed-boca-raton/ 301
+/blog/garbage-disposal-leaking-jammed /blog/garbage-disposal-leaking-jammed-boca-raton/ 301
+/blog/hydro-jetting-vs-snaking/ /blog/hydro-jetting-vs-snaking-boca-raton/ 301
+/blog/hydro-jetting-vs-snaking /blog/hydro-jetting-vs-snaking-boca-raton/ 301
+/blog/septic-vs-sewer-palm-beach-county/ /blog/septic-vs-sewer-boca-raton-palm-beach-county/ 301
+/blog/septic-vs-sewer-palm-beach-county /blog/septic-vs-sewer-boca-raton-palm-beach-county/ 301
+/blog/sewer-camera-inspection-what-it-shows/ /blog/sewer-camera-inspection-boca-raton-what-it-shows/ 301
+/blog/sewer-camera-inspection-what-it-shows /blog/sewer-camera-inspection-boca-raton-what-it-shows/ 301
+/blog/signs-your-home-needs-repipe/ /blog/signs-your-boca-raton-home-needs-repipe/ 301
+/blog/signs-your-home-needs-repipe /blog/signs-your-boca-raton-home-needs-repipe/ 301
+/blog/tankless-vs-tank-water-heater-south-florida/ /blog/tankless-vs-tank-water-heater-boca-raton/ 301
+/blog/tankless-vs-tank-water-heater-south-florida /blog/tankless-vs-tank-water-heater-boca-raton/ 301
+/blog/toilet-running-nonstop/ /blog/toilet-running-nonstop-boca-raton/ 301
+/blog/toilet-running-nonstop /blog/toilet-running-nonstop-boca-raton/ 301
+/blog/water-bill-jumped-find-leak/ /blog/water-bill-jumped-find-leak-boca-raton/ 301
+/blog/water-bill-jumped-find-leak /blog/water-bill-jumped-find-leak-boca-raton/ 301
+/blog/water-heater-leaking-bottom/ /blog/water-heater-leaking-bottom-boca-raton/ 301
+/blog/water-heater-leaking-bottom /blog/water-heater-leaking-bottom-boca-raton/ 301
