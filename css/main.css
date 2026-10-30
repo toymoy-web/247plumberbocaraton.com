@@ -187,3 +187,9 @@ main p,main li{font-size:17px;line-height:1.7}
 .side-link{font-family:'Figtree',Arial,sans-serif;font-weight:700;color:var(--blue);text-decoration:none}
 .side-link:hover{text-decoration:underline}
 @media(max-width:900px){.sidecard{position:static;top:auto}}
+
+/* social links */
+.foot-social{margin-top:1.1rem}
+.foot-social .social-links{list-style:none;display:flex;flex-wrap:wrap;gap:8px}
+.foot-social .social-links a{display:inline-block;margin:0;padding:6px 12px;border:1px solid rgba(255,255,255,.25);border-radius:100px;color:#fff;font-size:13px;line-height:1.3}
+.foot-social .social-links a:hover{background:var(--sun);border-color:var(--sun);color:var(--ink)}
